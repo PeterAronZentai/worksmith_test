@@ -22,6 +22,7 @@
   "homepage": "https://github.com/PeterAronZentai/worksmith_test",
   "dependencies": {
     "worksmith": "0.0.19",
-    "worksmith_example_module": "^1.0.1"
+    "worksmith_example_module": "^1.0.1",
+    "worksmith_salesforce": "0.0.2"
   }
 }
