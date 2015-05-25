@@ -1,0 +1,23 @@
+{
+  "name": "worksmith_test",
+  "version": "1.0.0",
+  "description": "a module to test worksmith",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PeterAronZentai/worksmith_test.git"
+  },
+  "keywords": [
+    "workflow",
+    "harness"
+  ],
+  "author": "Peter Zentai <peter.zentai@guidesmiths.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterAronZentai/worksmith_test/issues"
+  },
+  "homepage": "https://github.com/PeterAronZentai/worksmith_test"
+}
